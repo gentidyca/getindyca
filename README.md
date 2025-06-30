@@ -1,2 +1,3 @@
-# getindyca
-Sitio oficial de GETINDYCA
+# GETINDYCA
+
+Sitio oficial del proyecto GETINDYCA.
